@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Un apasionado por aprender nuevas tecnologias</h2></summary>
+    <summary><h2 style="display: inline-block">Soy un apasionado por aprender nuevas tecnologías</h2></summary>
   </ul>
 </div>
 
@@ -70,7 +70,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Stack de tecnologias👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Stack de tecnologías👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -85,7 +85,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contacte conmigo🤝</h2></summary>
   </ul>
 </div>
 
